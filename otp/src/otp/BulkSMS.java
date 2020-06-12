@@ -44,7 +44,7 @@ public class BulkSMS {
 	}
 
 
-	static public void sendSms(String countryCode, String phoneNumber, String body) {
+	public static void sendSms(String countryCode, String phoneNumber, String body) {
 
 		String myData = "{" + "to: \"" + countryCode + phoneNumber + "\"," + " body: \"" + body + "\"" + "}";
 
