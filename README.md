@@ -19,4 +19,6 @@ this library will help you to send SMS and one time passwords for authentication
 
 7. feel free to use and have fun 😊
 
+<img width="599" alt="" src="https://github.com/lashka12/OTP/blob/master/otp/lib.png">
 <img width="599" alt="" src="https://github.com/lashka12/OTP/blob/master/otp/code.png">
+<img  alt="" src="https://github.com/lashka12/OTP/blob/master/otp/phone.jpg">
