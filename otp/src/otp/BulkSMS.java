@@ -23,13 +23,13 @@ public class BulkSMS {
 
 	}
 
-	public static String generateOTP(int digits, boolean Alphanumeric) {
+	public static String generateOTP(int digits, boolean alphanumeric) {
 
 		Random rand = new Random();
 		String otp = "";
 
 		for (int i = 0; i < digits; i++)
-			if (Alphanumeric)
+			if (alphanumeric)
 				if (rand.nextInt(2) == 0)
 					otp += (char) (rand.nextInt(26) + 'a');
 
