@@ -1,7 +1,7 @@
 # OTP
 🔑📲 💬 one time password SMS library for bulkSMS gateway
 
-this library will help you to send SMS and one time passwords for authentication uses in your application throught bulkSMS gateway
+this library will help you to send SMS and one time passwords for authentication in your application throught bulkSMS gateway
 
 1. open an account on BulkSMS website https://www.bulksms.com/account/#!/registration
 
