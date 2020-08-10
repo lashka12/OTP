@@ -5,7 +5,7 @@ this library will help you to send SMS and one time passwords for authentication
 
 1. open an account on BulkSMS website https://www.bulksms.com/account/#!/registration
 
-2. download the otp.jar file 
+2. download the otp.jar file (https://github.com/lashka12/OTP/blob/master/otp/otp.jar)
 
 3. add the jar file to your project libraries
 
